@@ -1,0 +1,175 @@
+
+------------------------------------------
+Sequential with 1GB RAM 
+-------------------------------------------
+
+time took to fill sequentially: 2286.386962890625
+time took to get sequentially: 72639.6240234375
+
+
+Max CPU Load: ~28%
+Most of the time CPU Load is: 7-10% 
+
+Max MEM utilization : 12.7MiB of 1GB RAM (1.33%)
+
+
+
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.06%              3.148MiB / 984.6MiB   0.32%               5.22MB / 5.47MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.14%               3.141MiB / 984.6MiB   0.32%               5.42MB / 5.75MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           16.24%              5.207MiB / 984.6MiB   0.53%               7.11MB / 6.03MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT    MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           28.68%              12.8MiB / 984.6MiB   1.30%               12.5MB / 6.76MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT    MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.21%               12.8MiB / 984.6MiB   1.30%               12.7MB / 7.07MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT    MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.08%               12.8MiB / 984.6MiB   1.30%               12.9MB / 7.35MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT    MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           7.08%               12.8MiB / 984.6MiB   1.30%               13.2MB / 7.68MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT    MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           7.33%               12.8MiB / 984.6MiB   1.30%               13.4MB / 8.02MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT    MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           7.85%               12.8MiB / 984.6MiB   1.30%               13.7MB / 8.39MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT    MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           6.80%               12.8MiB / 984.6MiB   1.30%               14MB / 8.73MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           7.66%               12.77MiB / 984.6MiB   1.30%               14.2MB / 9.07MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.07%              12.77MiB / 984.6MiB   1.30%               14.4MB / 9.37MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.70%              12.77MiB / 984.6MiB   1.30%               14.7MB / 9.68MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.98%              12.77MiB / 984.6MiB   1.30%               14.9MB / 10MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.43%              12.77MiB / 984.6MiB   1.30%               15.1MB / 10.3MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.98%               12.77MiB / 984.6MiB   1.30%               15.3MB / 10.6MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           6.63%               12.77MiB / 984.6MiB   1.30%               15.6MB / 10.9MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           7.07%               12.77MiB / 984.6MiB   1.30%               15.8MB / 11.2MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.05%               12.77MiB / 984.6MiB   1.30%               16MB / 11.5MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.57%               12.77MiB / 984.6MiB   1.30%               16.2MB / 11.8MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.35%               12.77MiB / 984.6MiB   1.30%               16.4MB / 12.1MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.66%               12.77MiB / 984.6MiB   1.30%               16.6MB / 12.4MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.22%              12.77MiB / 984.6MiB   1.30%               16.9MB / 12.7MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.80%               12.77MiB / 984.6MiB   1.30%               17.1MB / 13MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.87%               12.77MiB / 984.6MiB   1.30%               17.3MB / 13.3MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.75%               12.77MiB / 984.6MiB   1.30%               17.5MB / 13.6MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           7.30%               12.77MiB / 984.6MiB   1.30%               17.8MB / 13.9MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.92%               12.77MiB / 984.6MiB   1.30%               18MB / 14.2MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.64%               12.77MiB / 984.6MiB   1.30%               18.2MB / 14.5MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.19%              12.77MiB / 984.6MiB   1.30%               18.4MB / 14.8MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.69%              12.77MiB / 984.6MiB   1.30%               18.6MB / 15.1MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.73%              12.77MiB / 984.6MiB   1.30%               18.8MB / 15.4MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           11.11%              12.77MiB / 984.6MiB   1.30%               19.1MB / 15.7MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.11%              12.77MiB / 984.6MiB   1.30%               19.3MB / 16MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.67%               12.77MiB / 984.6MiB   1.30%               19.5MB / 16.3MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.96%               12.77MiB / 984.6MiB   1.30%               19.7MB / 16.6MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           7.28%               12.77MiB / 984.6MiB   1.30%               20MB / 16.9MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           9.48%               12.77MiB / 984.6MiB   1.30%               20.2MB / 17.3MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.42%              12.77MiB / 984.6MiB   1.30%               20.4MB / 17.6MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           10.88%              12.77MiB / 984.6MiB   1.30%               20.7MB / 17.9MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           0.03%               12.77MiB / 984.6MiB   1.30%               20.7MB / 17.9MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           0.02%               12.77MiB / 984.6MiB   1.30%               20.7MB / 17.9MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           0.03%               12.77MiB / 984.6MiB   1.30%               20.7MB / 17.9MB     0B / 0B             11
+
+
+------------------------------------------
+Parallel with 1GB RAM 
+-------------------------------------------
+
+15:37:13: Main    : before creating thread
+15:37:13: Main    : create and start thread 0.
+15:37:13: Main    : create and start thread 1.
+15:37:13: Main    : create and start thread 2.
+15:37:13: Main    : create and start thread 3.
+15:37:13: Main    : create and start thread 4.
+15:37:13: Main    : create and start thread 5.
+15:37:13: Main    : create and start thread 6.
+15:37:13: Main    : create and start thread 7.
+15:37:13: Main    : create and start thread 8.
+15:37:13: Main    : create and start thread 9.
+15:37:13: Main    : create and start thread 10.
+15:37:13: Main    : create and start thread 11.
+15:37:13: Main    : create and start thread 12.
+15:37:13: Main    : create and start thread 13.
+15:37:13: Main    : create and start thread 14.
+15:37:13: Main    : create and start thread 15.
+15:37:13: Main    : create and start thread 16.
+15:37:13: Main    : create and start thread 17.
+15:37:13: Main    : create and start thread 18.
+15:37:13: Main    : create and start thread 19.
+15:37:13: Main    : before joining thread 0.
+15:37:16: Main    : thread 0 done
+15:37:16: Main    : thread 1 done
+15:37:16: Main    : thread 2 done
+15:37:16: Main    : thread 3 done
+15:37:16: Main    : thread 4 done
+15:37:16: Main    : thread 5 done
+15:37:16: Main    : thread 6 done
+15:37:16: Main    : thread 7 done
+15:37:16: Main    : thread 8 done
+15:37:16: Main    : thread 9 done
+15:37:16: Main    : thread 10 done
+15:37:16: Main    : thread 11 done
+15:37:16: Main    : thread 12 done
+15:37:16: Main    : thread 13 done
+15:37:16: Main    : thread 14 done
+15:37:16: Main    : thread 15 done
+15:37:16: Main    : thread 16 done
+15:37:16: Main    : thread 17 done
+15:37:16: Main    : thread 18 done
+15:37:16: Main    : thread 19 done
+
+15:37:16: Main    : all done
+
+time took: 3383.625
+
+Max CPU Load: 31.83%
+Avg CPU Load: 7-10%
+
+Max MEM utilization: 12.77 MiB of 1GB 
+
+
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           0.01%               12.75MiB / 984.6MiB   1.30%               21.5MB / 19MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           0.01%               12.75MiB / 984.6MiB   1.30%               21.5MB / 19MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           0.01%               12.75MiB / 984.6MiB   1.30%               21.5MB / 19MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           31.83%              12.76MiB / 984.6MiB   1.30%               25.8MB / 19.5MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           7.38%               12.76MiB / 984.6MiB   1.30%               28.7MB / 20.1MB     0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           7.03%               12.76MiB / 984.6MiB   1.30%               29MB / 20.4MB       0B / 0B             11
+CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+e3932d0cfe84        memcached           0.03%               12.76MiB / 984.6MiB   1.30%               29MB / 20.5MB       0B / 0B             11
