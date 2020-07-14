@@ -33,3 +33,6 @@ CMD ["/init.sh"]
 References: 
 
 https://github.com/pinterest/pymemcache - comparision of all python memcached libs
+
+
+Note: Max # of connections in Pool should be how many gunicorn workers are there or threads.
