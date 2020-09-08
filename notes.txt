@@ -36,3 +36,11 @@ https://github.com/pinterest/pymemcache - comparision of all python memcached li
 
 
 Note: Max # of connections in Pool should be how many gunicorn workers are there or threads.
+
+
+
+Changes has to be made for gunicorn 
+
+https://github.anaplan.com/arcus/namespace-config/blob/master/arcusdev3/dev1/configmaps/concord-featureconfig.yaml
+
+https://github.anaplan.com/arcus/namespace-config/tree/master/sv2-np : qaint1, perftest1, staging1
